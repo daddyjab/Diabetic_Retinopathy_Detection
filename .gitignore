@@ -105,3 +105,5 @@ venv.bak/
 
 # Ignore project data -- too large
 data*/
+official_test/
+saved_model.h5
