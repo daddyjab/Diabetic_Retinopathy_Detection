@@ -6,7 +6,7 @@ Classification of Images for detection of various stages of diabetic retinopathy
 * Python, Jupyter Notebook
 
 * Keras
-    * Image Data Generator with flow_from_directory method to read training, validation, and testing images
+    * `ImageDataGenerator` with `flow_from_directory` method to read training, validation, and testing images
     * Convolutional Neural Network model
     * Definition, Compilation, Fit, Evaluation of the model
     * Image Augmentation
