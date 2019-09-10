@@ -17,9 +17,9 @@ Classification of Images for detection of various stages of diabetic retinopathy
 
 * GitHub: https://github.com/daddyjab/Diabetic_Retinopathy_Detection
 
-* Selected Jupyter Notebooks:
-    * 02-Diabetic_Retinopathy_Exploration:<br>
-    https://github.com/daddyjab/Diabetic_Retinopathy_Detection/blob/master/Report-Diabetic_Retinopathy_Exploration.ipynb
+* Jupyter Notebook with Analysis and Report:
+    * Report-Diabetic_Retinopathy_Augmented-96x96,64,128-DesktopCPUOnly.ipynb:<br>
+    https://github.com/daddyjab/Diabetic_Retinopathy_Detection/blob/master/Report-Diabetic_Retinopathy_Augmented-96x96%2C64%2C128-DesktopCPUOnly.ipynb
 
 # Visualizations
 
